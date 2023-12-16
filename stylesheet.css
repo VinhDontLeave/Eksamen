@@ -164,6 +164,7 @@
   }
   
   .section__text__p1 {
+    margin-top: 3rem;
     text-align: center;
     font-weight: 800;
     color: #08645c;
@@ -264,6 +265,7 @@
     font-weight: 600;
     letter-spacing: 2px;
     line-height: 35px;
+    margin-bottom: 5rem ;
   }
 
 
